@@ -1,3 +1,3 @@
 <?php
 
-echo "Buy LuLu";
+echo "Buy LuLu, or you will be sorry";
